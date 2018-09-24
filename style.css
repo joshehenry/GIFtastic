@@ -1,0 +1,25 @@
+#gif-form {
+
+  
+    margin: 5px; 
+   float: left; 
+   position: relative; 
+   padding: 5px; 
+}
+
+h1 {
+
+    text-align: center; 
+}
+
+.gifs {
+
+    float: left; 
+    margin: 5px; 
+}
+
+body {
+
+    background-image: url("Dragon_Ball1.jpg");
+    background-size: 100%;
+}
